@@ -1,0 +1,7 @@
+{
+     "domainName": "app-gen.talksite.ai",
+     "stackName": "app-hosting",
+     "exclude": [".git"],
+     "sourceCodeFolderPathDev": "../web-gen.talksite.ai",
+     "stage": "dev"
+}
